@@ -141,6 +141,21 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math/base/special/abs2`][@stdlib/math/base/special/abs2]</span><span class="delimiter">: </span><span class="description">compute the squared absolute value of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math/iter/special/abs`][@stdlib/math/iter/special/abs]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the absolute value of each iterated value.</span>
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -200,7 +215,13 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [mdn-iterator-protocol]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol
 
+<!-- <related-links> -->
+
 [@stdlib/math/base/special/abs2]: https://github.com/stdlib-js/math-base-special-abs2
+
+[@stdlib/math/iter/special/abs]: https://github.com/stdlib-js/math-iter-special-abs
+
+<!-- </related-links> -->
 
 </section>
 
