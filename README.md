@@ -157,8 +157,8 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/abs2`][@stdlib/math/base/special/abs2]</span><span class="delimiter">: </span><span class="description">compute the squared absolute value of a double-precision floating-point number.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/abs`][@stdlib/math/iter/special/abs]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the absolute value of each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/abs2`][@stdlib/math/base/special/abs2]</span><span class="delimiter">: </span><span class="description">compute the squared absolute value of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/abs`][@stdlib/math/iter/special/abs]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the absolute value of each iterated value.</span>
 
 </section>
 
